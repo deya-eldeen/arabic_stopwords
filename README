@@ -1,1 +1,18 @@
-This repository contains a JSON file listing different Arabic stopwords organized into clear classifications such as punctuation symbols, core prepositions and conjunctions, pronouns and determiners, negation and question words, auxiliary and modal verbs, temporal and date words, quantities and numbers, common news boilerplate verbs, miscellaneous function words, user-custom expanded sets, additional common stopwords, and extra stop words. It is designed to provide a comprehensive and structured collection of frequent Arabic stopwords for use in natural language processing tasks like text cleaning, token filtering, or linguistic analysis. The JSON format's simple classification makes the stopwords easy to integrate into Arabic language processing workflows for tasks such as machine learning preprocessing or search indexing.
+# Arabic Stopwords JSON Repository
+
+This repository contains a JSON file listing different Arabic stopwords organized into clear classifications for easy use and integration. The classifications include:
+
+- **Punctuation symbols**  
+- **Core prepositions and conjunctions**  
+- **Pronouns and determiners**  
+- **Negation and question words**  
+- **Auxiliary and modal verbs**  
+- **Temporal and date words**  
+- **Quantities and numbers**  
+- **Common news boilerplate verbs**  
+- **Miscellaneous function words**  
+- **User-custom expanded sets**  
+- **Additional common stopwords**  
+- **Extra stop words**  
+
+Designed for natural language processing tasks such as text cleaning, token filtering, and linguistic analysis, this JSON structure offers a comprehensive and well-organized collection of frequent Arabic stopwords. Its simple classification makes it easy to integrate into Arabic language processing workflows including machine learning preprocessing and search indexing.
